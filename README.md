@@ -4,7 +4,7 @@ Projeto de agendamento de um consultório odontológico
 # Etapa 2:
 Esta entrega consiste em uma apresentação contendo os seguintes itens:
 
-1. Apresentação do problema.
+1. Apresentação do problema. (mostre o problema e justifique a solução)
 
 2. Indicação da solução contendo 3 estruturas de dados (2 estruturas de busca avançada e 1 estrutura de manipulação de dados).
 
